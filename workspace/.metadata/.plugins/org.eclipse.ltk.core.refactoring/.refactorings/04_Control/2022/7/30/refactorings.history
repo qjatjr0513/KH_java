@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;04_Control/src/com/kh/chap01/condition/A_if.java&apos; to &apos;A_If.java&apos;" description="Rename resource &apos;A_if.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/kh/chap01/condition/A_if.java" name="A_If.java" stamp="1658476145917" updateReferences="true"/>
+</session>

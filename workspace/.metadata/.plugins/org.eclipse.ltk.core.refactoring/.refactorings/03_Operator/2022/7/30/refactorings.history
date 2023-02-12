@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;03_Operator/src/com/kh/operator/G_Tripple.java&apos; to &apos;G_Triple.java&apos;" description="Rename resource &apos;G_Tripple.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/kh/operator/G_Tripple.java" name="G_Triple.java" stamp="1658394577405" updateReferences="true"/>
+</session>
